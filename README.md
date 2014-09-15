@@ -1,4 +1,0 @@
-OyunBot
-=======
-
-turkish repo
